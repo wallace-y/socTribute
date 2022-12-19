@@ -1,1 +1,35 @@
 /* Copy and paste your CSS from CodePen into here */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+
+#title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: beige;
+}
+
+#img-div {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+  padding: 15px;
+  background-color: beige;
+}
